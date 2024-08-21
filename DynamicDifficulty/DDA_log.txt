@@ -1,0 +1,8 @@
+DDA Enabled? true
+Total Deaths: 0
+D Rank Adjustments: 0
+C Rank Adjustments: 0
+B Rank Adjustments: 0
+A Rank Adjustments: 0
+S Rank Adjustments: 0
+Total Adjustments: 0
